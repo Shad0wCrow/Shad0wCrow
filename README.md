@@ -1,16 +1,21 @@
-## Hi there 👋
+# ¡Hola! Soy ShadowCrow 👋
 
-<!--
-**Shad0wCrow/Shad0wCrow** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Sobre mí
+Soy un apasionado del desarrollo de software y actualmente estoy aprendiendo y perfeccionando mis habilidades en varios lenguajes de programación. Disfruto explorando nuevas tecnologías y desafiándome a mí mismo para aprender y crecer constantemente.
 
-Here are some ideas to get you started:
+## Lenguajes y Tecnologías
+- **Java**: Conocimiento en los fundamentos y capacidad para construir aplicaciones básicas.
+- **HTML & CSS**: Capaz de crear y diseñar páginas web estáticas.
+- **JavaScript**: Familiarizado con la manipulación del DOM y funcionalidades básicas.
+- **Python**: Comprensión de la sintaxis y capacidad para escribir scripts simples.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Proyectos Destacados
+- [Nombre del Proyecto 1](enlace-al-proyecto): Breve descripción del proyecto y las tecnologías utilizadas.
+- [Nombre del Proyecto 2](enlace-al-proyecto): Breve descripción del proyecto y las tecnologías utilizadas.
+
+## Contacto
+- [LinkedIn](enlace-a-tu-perfil-de-linkedin)
+- [Correo Electrónico](maironfernandezorellana98@gmail.com)
+
+¡Estoy siempre abierto a colaborar en proyectos interesantes y aprender más! 🚀
+
