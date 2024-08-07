@@ -14,7 +14,7 @@ Soy un apasionado del desarrollo de software y actualmente estoy aprendiendo y p
 - [Nombre del Proyecto 2](enlace-al-proyecto): Breve descripción del proyecto y las tecnologías utilizadas.
 
 ## Contacto
-- [LinkedIn](enlace-a-tu-perfil-de-linkedin)
+- [LinkedIn](www.linkedin.com/in/mairon-henry-fernández-orellana-4262b823b)
 - [Correo Electrónico](maironfernandezorellana98@gmail.com)
 
 ¡Estoy siempre abierto a colaborar en proyectos interesantes y aprender más! 🚀
