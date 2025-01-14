@@ -8,6 +8,8 @@ Soy un apasionado del desarrollo de software y actualmente estoy aprendiendo y p
 - **HTML & CSS**: Capaz de crear y diseñar páginas web estáticas.
 - **JavaScript**: Familiarizado con la manipulación del DOM y funcionalidades básicas.
 - **Python**: Comprensión de la sintaxis y capacidad para escribir scripts simples.
+- **React**: Comprensión del funcionamiento del framework, puedo realizar proyectos simples
+- **Node Js y Express**: Estoy familiarizado con el funcionamiento basico de Node y puedo realizar proyectos simples
 
 ## Proyectos Destacados
 - [Nombre del Proyecto 1](enlace-al-proyecto): Breve descripción del proyecto y las tecnologías utilizadas.
